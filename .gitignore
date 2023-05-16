@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/podlet/node_modules
+/podlet/yarn.lock
 /.pnp
 .pnp.js
 
